@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1013334443901",
+    "project_id": "impressive-tome-136212"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013334443901:android:d8b86d8b362b60cb",
+        "android_client_info": {
+          "package_name": "com.checongbinh.lazada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013334443901-dfn8b1knuk2h824u2shht2qkja0954dk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.checongbinh.lazada",
+            "certificate_hash": "A2D1754758B96923BCF5CBDEFF1841470D9C5D2D"
+          }
+        },
+        {
+          "client_id": "1013334443901-t5uu1mal4s349b4d2lq8tskub874vue7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxU_0kekW3jxD6mOWJeQb21BmAgue1lVo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
